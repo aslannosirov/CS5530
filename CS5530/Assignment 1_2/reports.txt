@@ -1,0 +1,14 @@
+1.Yes, in the math performance males performed better. Median males score slightly higher than females. Both gender have a similar spread but females have more very low outliers.
+In the reading performance females performed better. Median Females score       noticeably higher than males. Both groups have similar spread, males show more low outliers.
+Overall, both genders have students with very low scores, but females show more extreme low outliers in Math, and males show more low outliers in Reading.
+
+
+2.Yes, students who completed the test prep course have a higher median Math score, around 70, than those who did not, around 63. Both groups have a fairly wide spread of scores. The completed groups scores are shifted upward, suggesting better performance. Both groups have low outliers, students who scored far below typical scores, but there are more extreme low outliers in the group who have not completed the test preparation.
+
+3.Yes, Students who receive a standard lunch perform better on average across all subjects is about 8.6 points higher than students on free/reduced lunch.  Students on free/reduced lunch score lower overall. Standard lunch students tend to achieve higher overall scores. While the scores follow a similar pattern across subjects for both groups, the performance gap between the standard and free/reduced lunch groups remains consistent.
+
+4.Math, Reading and Writing show a strong degree of positive correlation with each other, meaning they have close relationship. The Math-Math, Reading-Reading and Writing-Writing cells show a correlation of 1.00, representing a perfect positive correlation of each variable with itself, which is always expected. Math-Reading correlation is 0.82, indicating a strong positive correlation. This suggests that students who perform well in Math also tend to perform well in Reading. Math-Writing correlation is 0.80, also indicating a strong positive correlation. Reading-Writing correlation is 0.95, indicating a very strong positive correlation. This is the strongest relationship observed in this heatmap, suggesting a very close relationship between a student's Reading and Writing abilities.
+
+5.The scatter plot shows that as Reading scores go up, Math scores also tend to go up. This means that there’s a positive relationship between the two scores. For students who completed the test prep course, their Math and Reading scores are more closely tied together, which is shown by the steeper line in their plot. For students who didn’t complete the course, the connection between Math and Reading scores is still there, but it’s a bit weaker, with a gentler slope. There’s a good positive link between Math and Reading scores for both groups, but the students who did the test prep course seem to have a stronger relationship between the two.
+
+
